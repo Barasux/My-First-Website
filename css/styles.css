@@ -1,10 +1,9 @@
 body {
-    background-color: powderblue
+    background-color: #eaf6f6
 
   }
 
   hr {
-    background-color: powderblue;
     border-style: dotted none none;
     border-color: grey;
     border-width: 5px;
